@@ -7,9 +7,6 @@
 <title>Index Page</title>
 </head>
 <body>
-
-	<h1> ì•ˆë…•í•˜ì„¸ìš” </h1>
-
-
+	<h1> ¹Î¼ö¸° ÆäÀÌÁö </h1>
 </body>
 </html>
