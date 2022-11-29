@@ -4,12 +4,10 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Index Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-
-	<h1> ì•ˆë…•í•˜ì„¸ìš” </h1>
-
+	<h1> ¾È³çÇÏ¼¼¿ä! ÇÏ¿µÀÔ´Ï´Ù!!</h1>
 
 </body>
 </html>
